@@ -112,7 +112,7 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #666;
+		color: rgb(28, 27, 27);
 		line-height: 1.5em;
 	}
 
@@ -131,7 +131,7 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			color: #888;
+			color: rgb(255, 255, 255);
 		}
 
 			h2.alt strong {
@@ -165,7 +165,7 @@ input, select, textarea {
 
 	a {
 		text-decoration: none;
-		color: inherit;
+		color: #666;
 		border-bottom: dotted 1px rgba(128, 128, 128, 0.5);
 		-moz-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
 		-webkit-transition: color 0.35s ease-in-out, border-bottom-color 0.35s ease-in-out;
@@ -2223,7 +2223,7 @@ input, select, textarea {
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
-					color: inherit;
+					color: rgb(255, 255, 255);
 				}
 
 				#main > section.dark strong {
